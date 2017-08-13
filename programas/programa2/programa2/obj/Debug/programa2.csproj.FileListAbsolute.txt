@@ -1,0 +1,6 @@
+C:\Users\Marlene\Desktop\programas\programa2\programa2\bin\Debug\programa2.exe.config
+C:\Users\Marlene\Desktop\programas\programa2\programa2\obj\Debug\programa2.csprojResolveAssemblyReference.cache
+C:\Users\Marlene\Desktop\programas\programa2\programa2\bin\Debug\programa2.exe
+C:\Users\Marlene\Desktop\programas\programa2\programa2\bin\Debug\programa2.pdb
+C:\Users\Marlene\Desktop\programas\programa2\programa2\obj\Debug\programa2.exe
+C:\Users\Marlene\Desktop\programas\programa2\programa2\obj\Debug\programa2.pdb

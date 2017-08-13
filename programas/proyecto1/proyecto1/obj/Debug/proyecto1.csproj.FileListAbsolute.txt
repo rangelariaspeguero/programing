@@ -1,0 +1,9 @@
+C:\Users\Marlene\Desktop\programas\proyecto1\proyecto1\bin\Debug\proyecto1.exe.config
+C:\Users\Marlene\Desktop\programas\proyecto1\proyecto1\obj\Debug\proyecto1.csprojResolveAssemblyReference.cache
+C:\Users\Marlene\Desktop\programas\proyecto1\proyecto1\bin\Debug\proyecto1.exe
+C:\Users\Marlene\Desktop\programas\proyecto1\proyecto1\bin\Debug\proyecto1.pdb
+C:\Users\Marlene\Desktop\programas\proyecto1\proyecto1\obj\Debug\proyecto1.exe
+C:\Users\Marlene\Desktop\programas\proyecto1\proyecto1\obj\Debug\proyecto1.pdb
+C:\Users\Marlene\Desktop\mis programas\programas\proyecto1\proyecto1\bin\Debug\proyecto1.exe.config
+C:\Users\Marlene\Desktop\mis programas\programas\proyecto1\proyecto1\obj\Debug\proyecto1.exe
+C:\Users\Marlene\Desktop\mis programas\programas\proyecto1\proyecto1\obj\Debug\proyecto1.pdb
